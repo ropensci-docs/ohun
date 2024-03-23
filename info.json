@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "59db8e54c6139904d8bb8b596ffba9138619488e",
+    "author": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
+    "time": "2023-11-24 20:38:54",
+    "files": 1,
+    "merge": true,
+    "message": "Merge branch 'master' of https://github.com/ropensci/ohun\n"
+  },
+  "repo": "https://github.com/ropensci/ohun",
+  "pkg": "ohun"
+}

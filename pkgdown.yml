@@ -1,0 +1,12 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  energy_based_detection: energy_based_detection.html
+  intro_to_ohun: intro_to_ohun.html
+  template_based_detection: template_based_detection.html
+last_built: 2024-03-23T06:41Z
+urls:
+  reference: https://docs.ropensci.org/ohun/reference
+  article: https://docs.ropensci.org/ohun/articles
+
