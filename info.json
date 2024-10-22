@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2be88b518b841b0e996ce7765c218314a967b035",
+    "author": "Marcelo <marcelo.araya@ucr.ac.cr>",
+    "time": "2024-10-22 16:12:30",
+    "files": 1,
+    "merge": false,
+    "message": "fix bug when no detection above treshold\n"
+  },
+  "repo": "https://github.com/ropensci/ohun",
+  "pkg": "ohun"
+}
