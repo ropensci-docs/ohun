@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "98d3c46aba0c89dc7ec2b414956246c900008e34",
+    "author": "Marcelo <marcelo.araya@ucr.ac.cr>",
+    "time": "2025-10-30T14:50:28Z",
+    "files": 3,
+    "merge": false,
+    "message": "rename internal function\n"
+  },
+  "repo": "https://github.com/ropensci/ohun",
+  "pkg": "ohun",
+  "time": "2026-08-30T07:22:06Z"
+}
